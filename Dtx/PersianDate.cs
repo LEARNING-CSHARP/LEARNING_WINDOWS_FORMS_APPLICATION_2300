@@ -2,7 +2,7 @@
 {
 	public partial class PersianDate : System.Windows.Forms.UserControl
 	{
-		public PersianDate()
+		public PersianDate() : base()
 		{
 			InitializeComponent();
 

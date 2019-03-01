@@ -70,7 +70,7 @@
 			this.Controls.Add(this.monthComboBox);
 			this.Controls.Add(this.yearComboBox);
 			this.Name = "PersianDate";
-			this.Size = new System.Drawing.Size(209, 50);
+			this.Size = new System.Drawing.Size(293, 66);
 			this.Load += new System.EventHandler(this.PersianDate_Load);
 			this.ResumeLayout(false);
 

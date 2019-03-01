@@ -22,10 +22,9 @@
 			string shamsiMonthString = shamsiMonth.ToString().PadLeft(2, '0');
 
 			string result =
-				string.Format("{0}/{1}/{2}",
-				shamsiYear, shamsiMonthString, shamsiDayString);
+				$"{ shamsiYear }/{ shamsiMonthString }/{ shamsiDayString }";
 
-			return (result);
+			return result;
 		}
 	}
 }

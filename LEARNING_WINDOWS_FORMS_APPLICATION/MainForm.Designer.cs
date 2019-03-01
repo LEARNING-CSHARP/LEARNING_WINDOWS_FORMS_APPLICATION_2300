@@ -52,7 +52,7 @@
 			this.persianDate3.BackColor = System.Drawing.Color.Yellow;
 			this.persianDate3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
 			this.persianDate3.Location = new System.Drawing.Point(13, 77);
-			this.persianDate3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+			this.persianDate3.Margin = new System.Windows.Forms.Padding(4);
 			this.persianDate3.Name = "persianDate3";
 			this.persianDate3.Size = new System.Drawing.Size(228, 24);
 			this.persianDate3.TabIndex = 2;
@@ -62,7 +62,7 @@
 			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.Window;
-			this.ClientSize = new System.Drawing.Size(286, 183);
+			this.ClientSize = new System.Drawing.Size(417, 224);
 			this.Controls.Add(this.persianDate3);
 			this.Controls.Add(this.persianDate2);
 			this.Controls.Add(this.persianDate1);
